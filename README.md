@@ -27,3 +27,6 @@ Computational requirements
 Standard image-quality metrics such as PSNR, SSIM, and LPIPS
 
 The broader motivation is to explore practical and accessible approaches for cultural heritage digitization, where small artifacts often present significant challenges for conventional 3D reconstruction pipelines.
+
+<img width="1711" height="331" alt="image" src="https://github.com/user-attachments/assets/d166c364-e8ee-46bc-8ac5-75f610424e57" />
+
