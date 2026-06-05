@@ -2,7 +2,7 @@
 Comparative Evaluation of Structure-from-Motion, Neural Radiance Fields (NeRF), and Gaussian Splatting for 3D Reconstruction of Reflective Small Objects
 
 
-##Project Description
+# Project Description
 
 This project investigates the effectiveness of modern 3D reconstruction techniques for digitizing small reflective objects using only consumer-grade smartphone imagery. The study focuses on a metal lantern with intricate perforated patterns and reflective surfaces, making it a challenging object for traditional photogrammetry methods.
 
